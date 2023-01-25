@@ -1,7 +1,5 @@
 package com.pkielblock.spring.entities.enums;
 
-import com.pkielblock.spring.entities.Order;
-
 public enum OrderStatus {
     WAITING_PAYMENT(1),
     PAID(2),

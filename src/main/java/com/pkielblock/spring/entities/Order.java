@@ -1,7 +1,6 @@
 package com.pkielblock.spring.entities;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.pkielblock.spring.entities.enums.OrderStatus;
 import jakarta.persistence.*;
 

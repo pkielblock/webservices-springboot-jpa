@@ -1,9 +1,9 @@
-## Web Services - Springboot and JPA
-Project to study Web Services with Springboot and JPA (Hibernate)
+## Web Services - Spring Boot and JPA
+Project to study Web Services with Spring Boot and JPA (Hibernate)
 
 This project was created to study:
 
-* Java Springboot
+* Java Spring Boot
 * Rest API
 * Domain Model
 * Structure Logical Layers (resource, service, repository)
